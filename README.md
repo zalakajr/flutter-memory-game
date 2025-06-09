@@ -2,6 +2,8 @@
 
 A fun and engaging memory card matching game built with Flutter. Test your memory by matching pairs of cards with the same emoji symbols.
 
+# Follow me on github and linkedin for more free mini projects
+
 ![Game Screenshot](screenshots/game_screenshot.png) <!-- Add a screenshot later -->
 
 ## ✨ Features
@@ -91,6 +93,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+[TAMBU LIH JUNIOR](www.linkedin.com/in/tambu-lih-j-r-ba6608245)
 
-Project Link: [https://github.com/yourusername/flutter-memory-game](https://github.com/yourusername/flutter-memory-game)
+Project Link: [https://github.com/zalakajr/flutter-memory-game.git](https://github.com/zalakajr/flutter-memory-game.git)
